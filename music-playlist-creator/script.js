@@ -24,12 +24,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const songInfo = document.createElement("div");
       songInfo.classList.add("song-info");
-      songInfo.innerHTML = `
+      songInfo.innerHTML = `<img src=${song.song_image} class="song_image">
         <span class="song-title">${song.title}</span> by
         <span class="song-artist">${song.artist}</span> (<span class="song-duration">${song.duration}</span>)
       `;
 
-      li.appendChild(songImg);
+      
       li.appendChild(songInfo);
       modalSongs.appendChild(li);
     });
@@ -115,3 +115,4 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+

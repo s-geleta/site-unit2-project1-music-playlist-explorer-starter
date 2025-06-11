@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <title>Music Playlist Explorer</title>
+    <title>Featured</title>
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
     
     <link rel="stylesheet" href="styles.css">
@@ -27,29 +27,27 @@
 
         <div class="outer-box">
             <div class = "inner-box">
-                <div id="playlist-container" class="playlist-container">
+
+                <div id = "ft-featured-container ">
+                    <div id ="info" >
+                        <img id="featured-image" class="ft-img" src="" alt="Playlist Cover Art">
+                    </div>
+                    <div class = "title-cont">
+                        <h3 id="featured-title" class ="ft-title"></h3>
+                        <ul id="featured-songs" class="modal-content li"></ul>
+                    </div>
                     
                 </div>
-                    
             </div>
         </div>
+        
 
-        <div id="playlist-modal" class="modal">
-            <div class="modal-content">
-                <span class="close-button">&times;</span>
-                <img id="modal-art" src="" alt="Cover art" />
-                <h3 id="modal-name"></h3>
-                <p id="modal-author"></p>
-                <ul id="modal-songs"></ul>
-                <button id="shuffle-btn" class="shuffle-button">Shuffle &#8634; </button>
-            </div>
-        </div>
 
 
     
     <footer>
         <!-- Your footer content here -->
     </footer>
-    <script src="script.js"></script>
+    <script src="featured.js"></script>
 </body>
 </html>
