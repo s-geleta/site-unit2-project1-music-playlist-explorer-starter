@@ -9,17 +9,38 @@
       "songs": [
         {
           "songID": 101,
-          "title": "Morning Sun",
-          "artist": "Sunrise Band",
-          "duration": "3:45",
-          "song_image": "assets/img/morning_sun.jpg"
+          "title": "Pretty Little Birds",
+          "artist": "SZA & Isaiah Rashad",
+          "duration": "4:05",
+          "song_image": "assets/1/sza.jpg"
         },
         {
           "songID": 102,
-          "title": "Late Night Drive",
-          "artist": "Night Riders",
-          "duration": "4:20",
-          "song_image": "assets/img/late_night_drive.jpg"
+          "title": "Pyramids",
+          "artist": "Frank Ocean",
+          "duration": "9:52",
+          "song_image": "assets/1/frank.jpeg"
+        },
+        {
+          "songID": 103,
+          "title": "Tell Him",
+          "artist": "Ms. Lauryn Hill",
+          "duration": "4:40",
+          "song_image": "assets/1/lauryn.png"
+        },
+        {
+          "songID": 104,
+          "title": "The Dress",
+          "artist": "Dijon",
+          "duration": "3:04",
+          "song_image": "assets/1/dijon.jpeg"
+        },
+        {
+          "songID": 105,
+          "title": "Girl",
+          "artist": "The Internet & Kaytranada",
+          "duration": "6:55",
+          "song_image": "assets/1/theinternet.jpeg"
         }
       ]
     },
@@ -32,17 +53,38 @@
       "songs": [
         {
           "songID": 201,
-          "title": "Pump It Up",
-          "artist": "Gym Beats",
-          "duration": "3:30",
-          "song_image": "assets/img/quietplaylist2.jpg"
+          "title": "Jupiter",
+          "artist": "The Marías",
+          "duration": "3:11",
+          "song_image": "assets/2/marias.jpg"
         },
         {
           "songID": 202,
-          "title": "Endurance",
-          "artist": "Run Fast",
-          "duration": "2:50",
-          "song_image": "assets/img/endurance.jpg"
+          "title": "Sunshine Baby",
+          "artist": "The Japanese House",
+          "duration": "3:39",
+          "song_image": "assets/2/jphouse.jpeg"
+        },
+        {
+          "songID": 203,
+          "title": "homesick",
+          "artist": "Wave to Earth",
+          "duration": "5:06",
+          "song_image": "assets/2/wte.jpg"
+        },
+        {
+          "songID": 204,
+          "title": "not a lot, just forever",
+          "artist": "Adrienne Lenker",
+          "duration": "4:10",
+          "song_image": "assets/2/adrienne.jpg"
+        },
+        {
+          "songID": 205,
+          "title": "Persimmon",
+          "artist": "The Army, The Navy",
+          "duration": "2:49",
+          "song_image": "assets/2/persimmon.jpeg"
         }
       ]
     },
@@ -54,19 +96,41 @@
       "likes": 17,
       "songs": [
         {
-          "songID": 201,
-          "title": "Pump It Up",
-          "artist": "Gym Beats",
-          "duration": "3:30",
-          "song_image": "assets/img/pump_it_up.jpg"
+          "songID": 301,
+          "title": "Jigsaw Falling Into Place",
+          "artist": "Radiohead",
+          "duration": "4:08",
+          "song_image": "assets/3/radiohead.jpg"
         },
         {
-          "songID": 202,
-          "title": "Endurance",
-          "artist": "Run Fast",
-          "duration": "2:50",
-          "song_image": "assets/img/endurance.jpg"
+          "songID": 302,
+          "title": "Maybe Tomorrow",
+          "artist": "Stereophonics",
+          "duration": "4:32",
+          "song_image": "assets/3/stereo.jpeg"
+        },
+        {
+          "songID": 303,
+          "title": "Tell You Something",
+          "artist": "Sports",
+          "duration": "3:19",
+          "song_image": "assets/3/sports.jpeg"
+        },
+        {
+          "songID": 304,
+          "title": "It's Only Natural",
+          "artist": "Red Hot Chili Peppers",
+          "duration": "5:33",
+          "song_image": "assets/3/rhcp.jpeg"
+        },
+        {
+          "songID": 305,
+          "title": "Forget Her",
+          "artist": "Jeff Buckley",
+          "duration": "5:12",
+          "song_image": "assets/3/jeff.jpeg"
         }
+        
       ]
     },
     {
@@ -77,18 +141,39 @@
       "likes": 16,
       "songs": [
         {
-          "songID": 201,
-          "title": "Pump It Up",
-          "artist": "Gym Beats",
-          "duration": "3:30",
-          "song_image": "assets/img/pump_it_up.jpg"
+          "songID": 401,
+          "title": "Say Yes",
+          "artist": "Jackiem Joyner",
+          "duration": "5:12",
+          "song_image": "assets/4/sayyes.jpeg"
         },
         {
-          "songID": 202,
-          "title": "Endurance",
-          "artist": "Run Fast",
-          "duration": "2:50",
-          "song_image": "assets/img/endurance.jpg"
+          "songID": 402,
+          "title": "Blue Moon",
+          "artist": "Billie Holiday",
+          "duration": "3:27",
+          "song_image": "assets/4/bluemoon.jpeg"
+        },
+        {
+          "songID": 403,
+          "title": "Nicole",
+          "artist": "Enrico Intra",
+          "duration": "4:19",
+          "song_image": "assets/4/nicole.jpeg"
+        },
+        {
+          "songID": 404,
+          "title": "Queens Highway",
+          "artist": "Menahan Street Band",
+          "duration": "1:07",
+          "song_image": "assets/4/queens.jpeg"
+        },
+        {
+          "songID": 405,
+          "title": "Pain Au Chocolat",
+          "artist": "Morieux",
+          "duration": "3:05",
+          "song_image": "assets/4/pain.jpg"
         }
       ]
     },
@@ -100,18 +185,39 @@
       "likes": 15,
       "songs": [
         {
-          "songID": 201,
-          "title": "Pump It Up",
-          "artist": "Gym Beats",
-          "duration": "3:30",
-          "song_image": "assets/img/pump_it_up.jpg"
+          "songID": 501,
+          "title": "Baby (Is it a Crime)",
+          "artist": "Rema",
+          "duration": "2:44",
+          "song_image": "assets/5/rema.jpeg"
         },
         {
-          "songID": 202,
-          "title": "Endurance",
-          "artist": "Run Fast",
-          "duration": "2:50",
-          "song_image": "assets/img/endurance.jpg"
+          "songID": 502,
+          "title": "Awuke",
+          "artist": "Davido & YG Marley",
+          "duration": "2:52",
+          "song_image": "assets/5/awuke.jpeg"
+        },
+        {
+          "songID": 503,
+          "title": "4 Kampé II",
+          "artist": "Burna Boy & Joé Dwèt Filé ",
+          "duration": "5:06",
+          "song_image": "assets/5/4kampe.jpeg"
+        },
+        {
+          "songID": 504,
+          "title": "J'ai zayé",
+          "artist": "Dadju & Tayc & Rsko",
+          "duration": "3:19",
+          "song_image": "assets/5/jaizaye.jpg"
+        },
+        {
+          "songID": 505,
+          "title": "Après Minuit",
+          "artist": "Wizkid & Tiakola",
+          "duration": "2:57",
+          "song_image": "assets/5/wizkid.jpeg"
         }
       ]
     },
@@ -123,18 +229,39 @@
       "likes": 14,
       "songs": [
         {
-          "songID": 201,
-          "title": "Pump It Up",
-          "artist": "Gym Beats",
-          "duration": "3:30",
-          "song_image": "assets/img/pump_it_up.jpg"
+          "songID": 601,
+          "title": "How We Roll",
+          "artist": "Dame Four",
+          "duration": "3:29",
+          "song_image": "assets/6/damefour.jpeg"
         },
         {
-          "songID": 202,
-          "title": "Endurance",
-          "artist": "Run Fast",
-          "duration": "2:50",
-          "song_image": "assets/img/endurance.jpg"
+          "songID": 602,
+          "title": "As Long As You Love Me",
+          "artist": "Justin Bieber & Big Sean",
+          "duration": "3:49",
+          "song_image": "assets/6/justin.webp"
+        },
+        {
+          "songID": 603,
+          "title": "Fallin'",
+          "artist": "Alicia Keys",
+          "duration": "5:06",
+          "song_image": "assets/6/fallin.jpeg"
+        },
+        {
+          "songID": 604,
+          "title": "Teenage Dream",
+          "artist": "Katy Perry",
+          "duration": "3:47",
+          "song_image": "assets/6/katy.png"
+        },
+        {
+          "songID": 605,
+          "title": "DJ Got Us Fallin' In Love",
+          "artist": "Usher & Pitbull",
+          "duration": "3:40",
+          "song_image": "assets/6/usher.jpeg"
         }
       ]
     }
