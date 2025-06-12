@@ -95,7 +95,6 @@ a:active:hover {
 
 
 /*playlist grid*/
-
 .playlist-container {
   display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -108,6 +107,38 @@ a:active:hover {
     justify-content: center;
     align-items: center;
 }
+
+@media screen and (max-width: 900px) {
+  .playlist-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 24px;
+    margin: 40px auto;
+    max-width: auto;
+    padding: 20px;
+    padding-top:100px;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 1200px) and (min-width:901px) {
+  .playlist-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 24px;
+    margin: 40px auto;
+    max-width: auto;
+    padding: 20px;
+    padding-top:100px;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+
 
 /* Playlist Tiles  */
 .playlist-tile {
