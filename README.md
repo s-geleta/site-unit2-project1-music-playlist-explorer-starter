@@ -132,7 +132,7 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD
 
 
 `<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/07368b7408d14ec9b7c0a203bb93272c?sid=796f38c1-a774-44a6-91c1-3a75e411eba4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
-
+**If embedding link does not work!**: [Loom Link](https://www.loom.com/share/07368b7408d14ec9b7c0a203bb93272c?sid=e11cece7-2699-41a8-9bb8-9951c528470c)
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
