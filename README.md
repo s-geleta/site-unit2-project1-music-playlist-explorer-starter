@@ -1,8 +1,8 @@
 ## Unit Assignment: Music Playlist Explorer
 
-Submitted by: **NAME**
+Submitted by: **Senaf Geleta**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **15** hours spent in total
 
 Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD_LINK_HERE)
 
@@ -131,7 +131,7 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD
 ### Walkthrough Video
 
 
-` <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/07368b7408d14ec9b7c0a203bb93272c?sid=796f38c1-a774-44a6-91c1-3a75e411eba4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> `
+`<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/07368b7408d14ec9b7c0a203bb93272c?sid=796f38c1-a774-44a6-91c1-3a75e411eba4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
 
 ### Reflection
 
